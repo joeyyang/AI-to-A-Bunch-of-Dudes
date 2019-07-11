@@ -2,7 +2,7 @@ cloud-to-butt
 =============
 ![](example.png)
 
-Chrome extension that replaces occurrences of 'AI' with 'A Bunch of Dudes'
+Chrome extension that replaces occurrences of 'AI' and 'Artificial Intelligence' with 'A Bunch of Dudes'
 
 Lovingly forked from Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) extension.
 
