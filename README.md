@@ -1,8 +1,8 @@
-cloud-to-butt
+AI-to-A-Bunch-of-Dudes
 =============
-![](example.png)
-
 Chrome extension that replaces occurrences of 'AI' and 'Artificial Intelligence' with 'A Bunch of Dudes'
+
+![](example.png)
 
 Lovingly forked from Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) extension.
 
