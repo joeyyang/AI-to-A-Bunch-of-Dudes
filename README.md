@@ -1,6 +1,6 @@
 AI-to-A-Bunch-of-Dudes
 =============
-Chrome extension that replaces occurrences of 'AI' and 'Artificial Intelligence' with 'A Bunch of Dudes'
+Chrome extension that replaces occurrences of 'AI' and 'Artificial Intelligence' with 'A Bunch of Dudes', inspired by [this tweet](https://twitter.com/xuhulk/status/1149341407590719488).
 
 ![](example.png)
 
