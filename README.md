@@ -4,9 +4,9 @@ Chrome extension that replaces occurrences of 'AI' and 'Artificial Intelligence'
 
 Installation
 ------------
-- Click here to [download the extension](https://github.com/joeyyang/AI-to-A-Bunch-Of-Dudes/blob/master/AI_to_ABunchOfDudes.crx?raw=true)
+- Click here to [download the extension](https://github.com/joeyyang/AI-to-A-Bunch-Of-Dudes/blob/master/AI_to_ABunchOfDudes.crx?raw=true).
 - In Chrome, go to Window > Extensions.  
-- Drag AI_to_ABunchOfDudes.crx into the page that appears.
+- Drag `AI_to_ABunchOfDudes.crx` into the page that appears.
 
 
 ![](example.png)
